@@ -123,6 +123,11 @@ body{
     height: 40px;
 }
 
+.form input{
+    padding: 0px;
+    margin: 0px;
+}
+
 .location{
     padding-right: 2.5px;
 }
@@ -505,7 +510,7 @@ body{
 
         .form{
             grid-template-columns: repeat(1, minmax(0, 1fr));
-            padding: 40px, 0px;
+            padding: 5px;
         }
 
 
